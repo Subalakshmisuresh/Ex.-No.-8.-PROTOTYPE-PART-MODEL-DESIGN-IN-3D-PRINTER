@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![EMPD-model](https://github.com/Subalakshmisuresh/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121957896/c7932cfe-a929-4b9e-ba7e-f451af7f1deb)
+
+
+### Name: SUBALAKSHMI.S
+### Register Number: 212222100051
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
